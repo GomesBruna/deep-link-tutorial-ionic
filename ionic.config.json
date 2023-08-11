@@ -1,0 +1,7 @@
+{
+  "name": "deep-link-tutorial-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
